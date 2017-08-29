@@ -1,5 +1,6 @@
 # Welcome to Flatte
-![Flatte Logo](https://flatte.maxabab.com/assets/images/logos/flatte%20logo_Header.png "Flatte Logo") BETA
+![Flatte Logo](https://flatte.maxabab.com/assets/images/logos/flatte%20logo_Header.png "Flatte Logo") [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fkaanekinci%2FFlatte-Web.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fkaanekinci%2FFlatte-Web?ref=badge_shield)
+BETA
 
 Client-Side nosql Firebase Realtime Database save management. 
 
@@ -97,3 +98,6 @@ See also the list of [contributors](https://github.com/Flatte/Flatte-Web/graphs/
 ## License
 - Flatte is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fkaanekinci%2FFlatte-Web.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fkaanekinci%2FFlatte-Web?ref=badge_large)
